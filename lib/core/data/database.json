@@ -1,0 +1,390 @@
+[
+    {
+        "term": "AFC Bournemouth",
+        "hashtags": ["Cherries", "TheCherries", "AFCBournemouth", "Bournemouth", "AFCB"]
+    },
+    {
+        "term": "Arsenal",
+        "hashtags": ["Gunners", "TheGunners", "Arsenal", "ArsenalFC"]
+    },
+    {
+        "term": "Aston Villa",
+        "hashtags": ["Villans", "TheVillans", "AstonVilla", "AstonVillaFC", "AVFC", "Villa", "TheVilla"]
+    },
+    {
+        "term": "Brentford",
+        "hashtags": ["Bees", "TheBees", "Brentford", "BrentfordFC", "BFC"]
+    },
+    {
+        "term": "Brighton & Hove Albion",
+        "hashtags": ["Seagulls", "TheSeagulls", "Brighton", "BrightonFC", "BHAFC", "Albion", "TheAlbion"]
+    },
+    {
+        "term": "Chelsea",
+        "hashtags": ["Blues", "TheBlues", "Chelsea", "ChelseaFC"]
+    },
+    {
+        "term": "Crystal Palace",
+        "hashtags": ["Eagles", "TheEagles", "CrystalPalace", "CrystalPalaceFC", "CPFC", "Palace", "Glaziers", "TheGlaziers"]
+    },
+    {
+        "term": "Everton",
+        "hashtags": ["Toffees", "TheToffees", "Everton", "EvertonFC", "EFC", "ThePeople'sClub", "Blues", "TheBlues"]
+    },
+    {
+        "term": "Fulham",
+        "hashtags": ["Cottagers", "TheCottagers", "Fulham", "FulhamFC", "FFC", "BlackAndWhiteArmy", "TheBlackAndWhiteArmy", "Whites", "TheWhites"]
+    },
+    {
+        "term": "Leeds United",
+        "hashtags": ["Whites", "TheWhites", "LeedsUnited", "LeedsUnitedFC", "LUFC", "United", "Peacocks", "ThePeacocks", "Leeds"]
+    },
+    {
+        "term": "Leicester City",
+        "hashtags": ["Foxes", "TheFoxes", "LeicesterCity", "LeicesterCityFC", "LCFC", "Leicester", "City"]
+    },
+    {
+        "term": "Liverpool",
+        "hashtags": ["Reds", "TheReds", "Liverpool", "LiverpoolFC", "LFC"]
+    },
+    {
+        "term": "Manchester City",
+        "hashtags": ["Citizens", "TheCitizens", "ManchesterCity", "ManchesterCityFC", "MCFC", "City", "SkyBlues", "TheSkyBlues"]
+    },
+    {
+        "term": "Manchester United",
+        "hashtags": ["RedDevils", "TheRedDevils", "ManchesterUnited", "ManchesterUnitedFC", "ManUtd", "MUFC", "United"]
+    },
+    {
+        "term": "Newcastle United",
+        "hashtags": ["Magpies", "TheMagpies", "NewcastleUnited", "NewcastleUnitedFC", "Geordies", "TheGeordies", "NUFC", "United"]
+    },
+    {
+        "term": "Nottingham Forest",
+        "hashtags": ["Reds", "TheReds", "NottinghamForest", "NottinghamForestFC", "TrickyTrees", "TheTrickyTrees", "NFFC", "Forest"]
+    },
+    {
+        "term": "Southampton",
+        "hashtags": ["Saints", "TheSaints", "Southampton", "SouthamptonFC", "SFC"]
+    },
+    {
+        "term": "West Ham United",
+        "hashtags": ["Hammers", "TheHammers", "Irons", "TheIrons", "CockneyBoys", "TheCockneyBoys", "WestHam", "WestHamUnitedFC", "WestHamUnited", "WHUFC", "TheAcademyOfFootball"]
+    },
+    {
+        "term": "Wolverhampton Wanderers",
+        "hashtags": ["Wolves", "TheWolves", "Wanderers", "TheWanderers", "WolverhamptonFC", "Wolverhampton", "WWFC"]
+    },
+    {
+        "term": "Birmingham City",
+        "hashtags": ["Blues", "TheBlues", "BirminghamCity", "BirminghamCityFC", "BCFC", "City"]
+    },
+    {
+        "term": "Blackburn Rovers",
+        "hashtags": ["Rovers", "TheRovers", "BlueAndWhites", "TheBlueAndWhites", "Riversiders", "TheRiversiders", "BlackburnRovers", "BlackburnRoversFC", "BCFC", "Blackburn"]
+    },
+    {
+        "term": "Blackpool",
+        "hashtags": ["Seasiders", "TheSeasiders", "Tangerines", "TheTangerines", "'Pool", "The'Pool", "Blackpool", "BlackpoolFC", "BFC"]
+    },
+    {
+        "term": "Bristol City",
+        "hashtags": ["Robins", "TheRobins", "BristolCity", "BristolCityFC", "BCFC"]
+    },
+    {
+        "term": "Burnley",
+        "hashtags": ["Clarets", "TheClarets", "Burnley", "BurnleyFC", "BFC"]
+    },
+    {
+        "term": "Cardiff City",
+        "hashtags": ["Bluebirds", "TheBluebirds", "CardiffCity", "CardiffCityFC", "CCFC", "City"]
+    },
+    {
+        "term": "Coventry City",
+        "hashtags": ["SkyBlues", "TheSkyBlues", "CoventryCity", "CoventryCityFC", "CCFC", "PUSB"]
+    },
+    {
+        "term": "Huddersfield Town",
+        "hashtags": ["Terriers", "TheTerriers", "HuddersfieldTown", "HuddersfieldTownAFC", "HTAFC", "Town"]
+    },
+    {
+        "term": "Hull City",
+        "hashtags": ["Tigers", "TheTigers", "HullCity", "HullCityAFC", "HCAFC", "Hull"]
+    },
+    {
+        "term": "Luton Town",
+        "hashtags": ["Hatters", "TheHatters", "LutonTown", "LutonTownAFC", "LTFC", "Hull", "COYH"]
+    },
+    {
+        "term": "Middlesbrough",
+        "hashtags": ["Boro", "TheBoro", "Smoggies", "TheSmoggies", "Middlesbrough", "MiddlesbroughFC", "MFC"]
+    },
+    {
+        "term": "Millwall",
+        "hashtags": ["Lions", "TheLions", "Millwall", "MillwallFC"]
+    },
+    {
+        "term": "Norwich City",
+        "hashtags": ["NorwichCity", "NorwichCityFC", "TheCanaries", "Canaries", "Canary", "TheCanary", "NCFC"]
+    },
+    {
+        "term": "Preston North End",
+        "hashtags": ["Whites", "TheWhites", "NorwichCity", "NorwichCityFC", "TheInvincibles", "Preston", "Lilywhites", "TheLilywhites", "PNE", "Preston"]
+    },
+    {
+        "term": "Queens Park Rangers",
+        "hashtags": ["Hoops", "TheHoops", "Rs", "TheRs", "QueensParkRangers", "QueensParkRangersFC", "QPR"]
+    },
+    {
+        "term": "Reading",
+        "hashtags": ["Royals", "TheRoyals",  "Reading", "ReadingFC", "ROTREA"]
+    },
+    {
+        "term": "Rotherham United",
+        "hashtags": ["Millers", "TheMillers",  "RotherhamUnited", "RotherhamUnitedFC", "RUFC", "United"]
+    },
+    {
+        "term": "Sheffield United",
+        "hashtags": ["Blades", "TheBlades", "RedAndWhiteWizards", "TheRedAndWhiteWizards",  "SheffieldUnited", "SheffieldUnitedFC", "SUFC", "United"]
+    },
+    {
+        "term": "Stoke City",
+        "hashtags": ["Potters", "ThePotters",  "StokeCity", "StokeCityFC", "SCFC"]
+    },
+    {
+        "term": "Sunderland",
+        "hashtags": ["BlackCats", "TheBlackCats",  "Sunderland", "SunderlandAFC", "SAFC"]
+    },
+    {
+        "term": "Swansea",
+        "hashtags": ["Swans", "TheSwans",  "Swansea", "SwanseaAFC"]
+    },
+    {
+        "term": "Watford",
+        "hashtags": ["Hornets", "TheHornets",  "Watford", "WatfordFC", "TheGoldenBoys", "YellowArmy", "The'Orns"]
+    },
+    {
+        "term": "West Bromwich Albion",
+        "hashtags": ["Albion", "TheAlbion", "Baggies", "TheBaggies", "Throstles", "TheThrostles", "WestBromwichAlbion", "WestBromwichAlbionFC", "WBAFC", "WBA"]
+    },
+    {
+        "term": "Wigan Athletic",
+        "hashtags": ["Latics", "TheLatics", "WiganAthletic", "WiganAthleticFC", "WAFC"]
+    },
+    {
+        "term": "Accrington Stanley",
+        "hashtags": ["Stanley", "TheStanley", "AccyStanley", "AccyStanleyFC", "ASFC"]
+    },
+    {
+        "term": "Barnsley",
+        "hashtags": ["Reds", "TheReds", "Tykes", "TheTykes", "Barnsley", "BarnsleyFC", "BFC"]
+    },
+    {
+        "term": "Bolton Wanderers",
+        "hashtags": ["Trotters", "TheTrotters", "Wanderers", "TheWanderers", "Whites", "TheWhites", "BoltonWanderers", "BoltonWanderersFC", "BFC"]
+    },
+    {
+        "term": "Bristol Rovers",
+        "hashtags": ["Pirates", "ThePirates", "Gas", "TheGas", "Rovers", "TheRovers", "BristolRovers", "BristolRoversFC", "BRFC"]
+    },
+    {
+        "term": "Burton Albion",
+        "hashtags": ["Brewers", "TheBrewers"]
+    },
+    {
+        "term": "Cambridge United",
+        "hashtags": ["United", "TheUs"]
+    },
+    {
+        "term": "Charlton Athletic",
+        "hashtags": ["Addicks", "TheAddicks", "RedRobins", "TheRedRobins", "Valiants", "TheValiants"]
+    },
+    {
+        "term": "Charlton Athletic",
+        "hashtags": ["Addicks", "TheAddicks", "RedRobins", "TheRedRobins", "Valiants", "TheValiants"]
+    },
+    {
+        "term": "Cheltenham Town",
+        "hashtags": ["Robins", "TheRobins"]
+    },
+    {
+        "term": "Derby County",
+        "hashtags": ["Rams", "TheRams"]
+    },
+    {
+        "term": "Exeter City",
+        "hashtags": ["Grecians", "TheGrecians"]
+    },
+    {
+        "term": "Fleetwood Town",
+        "hashtags": ["Cods", "TheCods", "TheCodArmy", "TheTheCodArmy"]
+    },
+    {
+        "term": "Forest Green Rovers",
+        "hashtags": ["Rovers", "TheRovers", "The Green", "Green Army", "FGR", "TheLittleClubOnTheHill"]
+    },
+    {
+        "term": "Ipswich Town",
+        "hashtags": ["Blues", "TheBlues", "TractorBoys", "TheTractorBoys", "ITFC", "PrideOfEastAnglia"]
+    },
+    {
+        "term": "Lincoln City",
+        "hashtags": ["Imps", "TheImps"]
+    },
+    {
+        "term": "MK Dons",
+        "hashtags": ["Dons", "TheDons"]
+    },
+    {
+        "term": "Morecambe",
+        "hashtags": ["Shrimps", "TheShrimps", "Seasiders", "TheSeasiders"]
+    },
+    {
+        "term": "Oxford United",
+        "hashtags": ["Yellows", "TheYellows", "TheBoysFromUptheHill", "TheUs"]
+    },
+    {
+        "term": "Peterborough United",
+        "hashtags": ["Posh", "ThePosh"]
+    },
+    {
+        "term": "Plymouth Argyle",
+        "hashtags": ["Pilgrims", "ThePilgrims", "Argyle", "TheGreenArmy"]
+    },
+    {
+        "term": "Port Vale",
+        "hashtags": ["Valiants", "TheValiants", "Valeites", "TheValeites", "Vale", "TheVale"]
+    },
+    {
+        "term": "Portsmouth",
+        "hashtags": ["Blues", "TheBlues", "Pompey", "ThePompey"]
+    },
+    {
+        "term": "Sheffield Wednesday",
+        "hashtags": ["Owls", "TheOwls", "Wednesday", "SheffieldWednesday"]
+    },
+    {
+        "term": "Shrewsbury Town",
+        "hashtags": ["Blues", "TheBlues", "Shrews", "TheShrews", "Salop", "Town", "TheTown"]
+    },
+    {
+        "term": "Wycombe Wanderers",
+        "hashtags": ["Chairboys", "TheChairboys", "Blues", "TheBlues"]
+    },
+    {
+        "term": "Celtic",
+        "hashtags": ["Bhoys", "TheBhoys", "Hoops", "TheHoops", "Celtic", "CelticFC"]
+    },
+    {
+        "term": "Rangers",
+        "hashtags": ["Gers", "TheGers", "Rangers", "RangersFC"]
+    },
+    {
+        "term": "Motherwell",
+        "hashtags": ["Steelmen", "TheSteelmen", "Motherwell", "MotherwellFC", "TheWell", "Well"]
+    },
+    {
+        "term": "Dundee United",
+        "hashtags": ["Terrors", "TheTerrors", "Tangerines", "TheTangerines", "DundeeUnited", "DundeeUnitedFC", "DUFC"]
+    },
+    {
+        "term": "Heart of Midlothian",
+        "hashtags": ["Hearts", "JamTarts", "TheJamTarts", "HeartofMidlothian", "HeartofMidlothianFC", "HMFC", "Jambos", "TheJambos"]
+    },
+    {
+        "term": "Hearts",
+        "hashtags": ["Hearts", "JamTarts", "TheJamTarts", "HeartofMidlothian", "HeartofMidlothianFC", "HMFC", "Jambos", "TheJambos"]
+    },
+    {
+        "term": "Aberdeen",
+        "hashtags": ["Aberdeen", "Dons", "TheDons", "Aberdeen", "AberdeenFC", "Dandies", "TheDandies", "Reds", "TheReds"]
+    },
+    {
+        "term": "Hibernian",
+        "hashtags": ["Hibs", "Hibees", "TheHibees", "Hibernian", "HibernianFC", "Cabbage", "TheCabbage"]
+    },
+    {
+        "term": "Kilmarnock",
+        "hashtags": ["Killie", "Kilmarnock", "KilmarnockFC"]
+    },
+    {
+        "term": "St Johnstone",
+        "hashtags": ["Saints", "TheSaints", "StJohnstone", "StJohnstoneFC"]
+    },
+    {
+        "term": "Livingston",
+        "hashtags": ["Livi", "Lions", "TheLions", "Livingston", "LivingstonFC"]
+    },
+    {
+        "term": "St Mirren",
+        "hashtags": ["SMFC", "Buddies", "TheBuddies", "Saints", "TheSaints", "StMirren", "StMirrenFC"]
+    },
+    {
+        "term": "FA Cup",
+        "hashtags": ["facup"]
+    },
+    {
+        "term": "Premier League",
+        "hashtags": ["EPL", "PremierLeague"]
+    },
+    {
+        "term": "League One",
+        "hashtags": ["EFL", "LeagueOne"]
+    },
+    {
+        "term": "Champions League",
+        "hashtags": ["UCL", "Champions League"]
+    },
+    {
+        "term": "Division One",
+        "hashtags": ["DivisionOne"]
+    },
+    {
+        "term": "Europa League",
+        "hashtags": ["UEL", "EuropaLeague"]
+    },
+    {
+        "term": "Conference League",
+        "hashtags": ["UECL", "ConferenceLeague"]
+    },
+    {
+        "term": "Championship",
+        "hashtags": ["Championship", "EFLChampionship"]
+    },
+    {
+        "term": "League Cup",
+        "hashtags": ["EFLCup", "LeagueCup"]
+    },
+    {
+        "term": "Copa da Liga",
+        "hashtags": ["EFLCup", "LeagueCup"]
+    },
+    {
+        "term": "Liga Inglesa",
+        "hashtags": ["EPL", "PremierLeague"]
+    },
+    {
+        "term": "Scottish League",
+        "hashtags": ["SPFL", "ScottishPremiership"]
+    },
+    {
+        "term": "Scottish Premiership",
+        "hashtags": ["SPFL", "ScottishPremiership"]
+    },
+    {
+        "term": "Liga Escocesa",
+        "hashtags": ["SPFL", "ScottishPremiership"]
+    },
+    {
+        "term": "Scottish Cup",
+        "hashtags": ["ScottishCup"]
+    },
+    {
+        "term": "World Cup",
+        "hashtags": ["worldcup"]
+    },
+    {
+        "term": "Copa do Mundo",
+        "hashtags": ["worldcup"]
+    }
+]
