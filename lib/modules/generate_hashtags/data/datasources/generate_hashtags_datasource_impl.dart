@@ -43,7 +43,9 @@ class GenerateHashtagsLocalDatasourceImpl
       if (indexedKeys.contains(words[i])) {
         final model = HashtagDataModel.fromMap(
             database.firstWhere((e) => e['term'] == words[i]));
-        hashtags.add(model);
+        if (!hashtags.contains(model)) {
+          hashtags.add(model);
+        }
         continue;
       }
 
@@ -53,7 +55,10 @@ class GenerateHashtagsLocalDatasourceImpl
         if (indexedKeys.contains(key)) {
           final model = HashtagDataModel.fromMap(
               database.firstWhere((e) => e['term'] == key));
-          hashtags.add(model);
+
+          if (!hashtags.contains(model)) {
+            hashtags.add(model);
+          }
         }
       }
     }
