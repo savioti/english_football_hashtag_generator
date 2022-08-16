@@ -40,6 +40,10 @@
         "hashtags": ["Whites", "TheWhites", "LeedsUnited", "LeedsUnitedFC", "LUFC", "United", "Peacocks", "ThePeacocks", "Leeds"]
     },
     {
+        "term": "Leeds",
+        "hashtags": ["Whites", "TheWhites", "LeedsUnited", "LeedsUnitedFC", "LUFC", "United", "Peacocks", "ThePeacocks", "Leeds"]
+    },
+    {
         "term": "Leicester City",
         "hashtags": ["Foxes", "TheFoxes", "LeicesterCity", "LeicesterCityFC", "LCFC", "Leicester", "City"]
     },
