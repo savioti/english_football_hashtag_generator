@@ -32,8 +32,8 @@ class GenerateHashtagsLocalDatasourceImpl
 
   List<String> _filterCapitalWords(String input) {
     final capitalWords =
-        input.split(' ').where((e) => e[0] == e[0].toUpperCase());
-    return capitalWords.toList();
+        input.split(' ').where((e) => e[0] == e[0].toUpperCase()).toList();
+    return capitalWords;
   }
 
   List<HashtagDataModel> _detectKeyWords(List<String> words) {
