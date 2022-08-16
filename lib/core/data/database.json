@@ -348,6 +348,10 @@
         "hashtags": ["UCL", "Champions League"]
     },
     {
+        "term": "European Cup",
+        "hashtags": ["UCL", "Champions League", "EuropeanCup"]
+    },
+    {
         "term": "Division One",
         "hashtags": ["DivisionOne"]
     },
