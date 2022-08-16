@@ -21,7 +21,8 @@ class GenerateHashtagsLocalDatasourceImpl
   Future<List<HashtagDataModel>> retrieveHashtagsForInput({
     required String input,
   }) async {
-    final capitalWords = _filterCapitalWords(input);
+    final noPunctutationInput = input.replaceAll(RegExp(r'[.,():?!]'), '');
+    final capitalWords = _filterCapitalWords(noPunctutationInput);
     final hashtags = _detectKeyWords(capitalWords);
     return hashtags;
   }
