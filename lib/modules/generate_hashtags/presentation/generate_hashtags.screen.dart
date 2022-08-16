@@ -7,7 +7,8 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 class GenerateHashtagsScreen extends StatelessWidget {
   GenerateHashtagsScreen({Key? key}) : super(key: key);
 
-  final _controller = TextEditingController();
+  final _inputController = TextEditingController();
+  final _outputController = TextEditingController();
   final _presenter = GenerateHashtagsPresenter(
       usecase: serviceLocator.get<GenerateHashTagUseCase>());
   final _provider = StateProvider<String>((ref) => '');
@@ -37,7 +38,7 @@ class GenerateHashtagsScreen extends StatelessWidget {
                       borderRadius: BorderRadius.circular(3.0),
                     ),
                     child: TextField(
-                      controller: _controller,
+                      controller: _inputController,
                       maxLines: 5,
                     ),
                   ),
@@ -49,7 +50,7 @@ class GenerateHashtagsScreen extends StatelessWidget {
                         return ElevatedButton(
                           onPressed: () async {
                             final hashtagData = await _presenter
-                                .generateHashtags(_controller.text);
+                                .generateHashtags(_inputController.text);
                             ref.read(_provider.state).state = hashtagData;
                           },
                           child: const Text('Generate'),
@@ -63,7 +64,7 @@ class GenerateHashtagsScreen extends StatelessWidget {
                     style: TextStyle(fontSize: 24.0),
                   ),
                   Container(
-                    height: 128.0,
+                    height: 120.0,
                     width: double.infinity,
                     decoration: BoxDecoration(
                       color: Colors.grey[800],
@@ -71,8 +72,13 @@ class GenerateHashtagsScreen extends StatelessWidget {
                     ),
                     child: Consumer(
                       builder: (context, ref, child) {
-                        final output = ref.watch(_provider.state).state;
-                        return Text(output);
+                        _outputController.text =
+                            ref.watch(_provider.state).state;
+                        return TextField(
+                          controller: _outputController,
+                          readOnly: true,
+                          maxLines: 5,
+                        );
                       },
                     ),
                   ),
