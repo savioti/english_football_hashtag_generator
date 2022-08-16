@@ -398,5 +398,13 @@
     {
         "term": "Copa do Mundo",
         "hashtags": ["worldcup"]
+    },
+    {
+        "term": "First Division",
+        "hashtags": ["FirstDivision"]
+    },
+    {
+        "term": "Second Division",
+        "hashtags": ["SecondDivision"]
     }
 ]
