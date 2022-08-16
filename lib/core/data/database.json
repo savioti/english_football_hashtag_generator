@@ -68,6 +68,10 @@
         "hashtags": ["Saints", "TheSaints", "Southampton", "SouthamptonFC", "SFC"]
     },
     {
+        "term": "Tottenham",
+        "hashtags": ["Spurs", "TheSpurs", "Tottenham", "TottenhamFC", "THFC"]
+    },
+    {
         "term": "West Ham United",
         "hashtags": ["Hammers", "TheHammers", "Irons", "TheIrons", "CockneyBoys", "TheCockneyBoys", "WestHam", "WestHamUnitedFC", "WestHamUnited", "WHUFC", "TheAcademyOfFootball"]
     },
@@ -194,10 +198,6 @@
     {
         "term": "Cambridge United",
         "hashtags": ["United", "TheUs"]
-    },
-    {
-        "term": "Charlton Athletic",
-        "hashtags": ["Addicks", "TheAddicks", "RedRobins", "TheRedRobins", "Valiants", "TheValiants"]
     },
     {
         "term": "Charlton Athletic",
