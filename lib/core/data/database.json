@@ -60,6 +60,10 @@
         "hashtags": ["Magpies", "TheMagpies", "NewcastleUnited", "NewcastleUnitedFC", "Geordies", "TheGeordies", "NUFC", "United"]
     },
     {
+        "term": "Newcastle",
+        "hashtags": ["Magpies", "TheMagpies", "NewcastleUnited", "NewcastleUnitedFC", "Geordies", "TheGeordies", "NUFC", "United"]
+    },
+    {
         "term": "Nottingham Forest",
         "hashtags": ["Reds", "TheReds", "NottinghamForest", "NottinghamForestFC", "TrickyTrees", "TheTrickyTrees", "NFFC", "Forest"]
     },
