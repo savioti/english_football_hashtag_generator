@@ -364,6 +364,10 @@
         "hashtags": ["UEL", "EuropaLeague"]
     },
     {
+        "term": "UEFA Cup",
+        "hashtags": ["UEL", "EuropaLeague", "UEFA Cup"]
+    },
+    {
         "term": "Conference League",
         "hashtags": ["UECL", "ConferenceLeague"]
     },
