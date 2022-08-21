@@ -332,6 +332,10 @@
         "hashtags": ["SMFC", "Buddies", "TheBuddies", "Saints", "TheSaints", "StMirren", "StMirrenFC"]
     },
     {
+        "term": "Partick Thistle",
+        "hashtags": ["PTFC", "Jags", "TheJags", "TheMaryhillMagyars", "TheHarryWraggs", "Thistle", "PartickThistleFC"]
+    },
+    {
         "term": "FA Cup",
         "hashtags": ["facup"]
     },
