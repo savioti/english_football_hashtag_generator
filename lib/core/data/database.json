@@ -335,6 +335,21 @@
         "term": "Partick Thistle",
         "hashtags": ["PTFC", "Jags", "TheJags", "TheMaryhillMagyars", "TheHarryWraggs", "Thistle", "PartickThistleFC"]
     },
+    
+    {
+        "term": "Falkirk",
+        "hashtags": ["Bairns", "TheBairns", "Falkirk", "FalkirkFC"]
+    },
+    
+    {
+        "term": "Queen's Park",
+        "hashtags": ["Spiders", "TheSpiders", "QueensPark", "QueensParkFC"]
+    },
+    
+    {
+        "term": "Dunfermline Athletic",
+        "hashtags": ["DAFC", "Pars", "ThePars", "DunfermlineAthletic", "DunfermlineAthleticFC"]
+    },
     {
         "term": "FA Cup",
         "hashtags": ["facup"]
