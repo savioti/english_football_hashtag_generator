@@ -5,7 +5,7 @@
     },
     {
         "term": "Arsenal",
-        "hashtags": ["Gunners", "TheGunners", "Arsenal", "ArsenalFC"]
+        "hashtags": ["TheGunners", "Arsenal", "ArsenalFC"]
     },
     {
         "term": "Aston Villa",
@@ -327,7 +327,6 @@
         "term": "Partick Thistle",
         "hashtags": ["PTFC", "TheJags", "TheMaryhillMagyars", "TheHarryWraggs", "Thistle", "PartickThistleFC"]
     },
-    
     {
         "term": "Falkirk",
         "hashtags": ["TheBairns", "Falkirk", "FalkirkFC"]
