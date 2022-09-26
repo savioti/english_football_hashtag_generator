@@ -168,6 +168,10 @@
         "hashtags": ["TheHornets", "Watford", "WatfordFC", "TheGoldenBoys", "YellowArmy", "TheOrns"]
     },
     {
+        "term": "West Brom",
+        "hashtags": ["Albion", "TheAlbion", "TheBaggies", "TheThrostles", "WestBromwichAlbion", "WestBromwichAlbionFC", "WBAFC", "WBA"]
+    },
+    {
         "term": "West Bromwich",
         "hashtags": ["Albion", "TheAlbion", "TheBaggies", "TheThrostles", "WestBromwichAlbion", "WestBromwichAlbionFC", "WBAFC", "WBA"]
     },
