@@ -335,7 +335,6 @@
         "term": "Falkirk",
         "hashtags": ["TheBairns", "Falkirk", "FalkirkFC"]
     },
-    
     {
         "term": "Queen's Park",
         "hashtags": ["TheSpiders", "QueensPark", "QueensParkFC"]
@@ -435,5 +434,9 @@
     {
         "term": "Second Division",
         "hashtags": ["SecondDivision"]
+    },
+    {
+        "term": "Wimbledon",
+        "hashtags": ["AFCW", "Wimbledon", "AFCWimbledon"]
     }
 ]
