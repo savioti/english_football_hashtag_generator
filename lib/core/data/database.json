@@ -192,6 +192,10 @@
         "hashtags": ["TheReds", "TheTykes", "Barnsley", "BarnsleyFC", "BFC"]
     },
     {
+        "term": "Bolton",
+        "hashtags": ["TheTrotters", "TheWanderers", "TheWhites", "BoltonWanderers", "BoltonWanderersFC", "BFC"]
+    },
+    {
         "term": "Bolton Wanderers",
         "hashtags": ["TheTrotters", "TheWanderers", "TheWhites", "BoltonWanderers", "BoltonWanderersFC", "BFC"]
     },
