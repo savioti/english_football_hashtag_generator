@@ -53,7 +53,7 @@
     },
     {
         "term": "Manchester United",
-        "hashtags": ["TheRedDevils", "ManchesterUnited", "ManchesterUnitedFC", "ManUtd", "MUFC", "United"]
+        "hashtags": ["TheRedDevils", "ManchesterUnited", "ManchesterUnitedFC", "ManUtd", "MUFC", "United", "GGMU"]
     },
     {
         "term": "Newcastle",
@@ -377,7 +377,11 @@
     },
     {
         "term": "Division One",
-        "hashtags": ["DivisionOne"]
+        "hashtags": ["DivisionOne", "FirstDivision"]
+    },
+    {
+        "term": "Division Two",
+        "hashtags": ["DivisionTwo", "SecondDivision"]
     },
     {
         "term": "Europa League",
@@ -433,11 +437,11 @@
     },
     {
         "term": "First Division",
-        "hashtags": ["FirstDivision"]
+        "hashtags": ["FirstDivision", "DivisionOne"]
     },
     {
         "term": "Second Division",
-        "hashtags": ["SecondDivision"]
+        "hashtags": ["SecondDivision", "DivisionTwo"]
     },
     {
         "term": "Wimbledon",
