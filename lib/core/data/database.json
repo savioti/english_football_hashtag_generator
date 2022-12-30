@@ -16,6 +16,10 @@
         "hashtags": ["TheBees", "Brentford", "BrentfordFC", "BFC"]
     },
     {
+        "term": "Brighton",
+        "hashtags": ["TheSeagulls", "Brighton", "BrightonFC", "BHAFC", "Albion", "TheAlbion"]
+    },
+    {
         "term": "Brighton & Hove Albion",
         "hashtags": ["TheSeagulls", "Brighton", "BrightonFC", "BHAFC", "Albion", "TheAlbion"]
     },
