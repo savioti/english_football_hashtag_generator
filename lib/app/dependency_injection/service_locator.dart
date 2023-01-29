@@ -24,7 +24,7 @@ void _initCore() {}
 void _initDataSources() {
   serviceLocator.registerLazySingleton<GenerateHashtagsLocalDatasource>(() =>
       GenerateHashtagsLocalDatasourceImpl(
-          databasePath: 'lib/core/data/database.json'));
+          databasePath: 'assets/json/database.json'));
 }
 
 void _initRepositories() {
